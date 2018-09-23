@@ -1,0 +1,8 @@
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\bin\Debug\mjohansen.labview.email.dll
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\bin\Debug\mjohansen.labview.email.pdb
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\obj\Debug\mjohansen.labview.email.csproj.CoreCompileInputs.cache
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\obj\Debug\mjohansen.labview.email.csproj.CopyComplete
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\obj\Debug\mjohansen.labview.email.dll
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\mjohansen.labview.email\obj\Debug\mjohansen.labview.email.pdb

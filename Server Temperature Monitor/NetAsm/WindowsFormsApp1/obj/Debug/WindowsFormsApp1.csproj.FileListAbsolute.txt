@@ -1,0 +1,15 @@
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\mjohansen.labview.email.dll
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\mjohansen.labview.email.pdb
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mjoha\Documents\Visual Studio 2017\Projects\mjohansen.labview.email\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

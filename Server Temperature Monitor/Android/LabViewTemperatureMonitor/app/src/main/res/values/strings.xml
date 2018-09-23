@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabView Temperature Monitor</string>
+    <string name="zone1">Zone 1</string>
+    <string name="zone2">Zone 2</string>
+    <string name="zone3">Zone 3</string>
+    <string name="zone4">Zone 4</string>
+    <string name="zoneAvg">Average</string>
+</resources>

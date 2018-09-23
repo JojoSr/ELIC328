@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "948073604642",
+    "firebase_url": "https://school-1223d.firebaseio.com",
+    "project_id": "school-1223d",
+    "storage_bucket": "school-1223d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948073604642:android:c8606e78213b83c9",
+        "android_client_info": {
+          "package_name": "mjohansen.labview.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948073604642-7vpomep5c44ccmqhk1367ingadm9bk0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mjohansen.labview.monitor",
+            "certificate_hash": "641314d74dd125b8dde520df41f24269f434e0c5"
+          }
+        },
+        {
+          "client_id": "948073604642-u3u3f44465b191h6phjpl044j3h8mj2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pCCbwFWNHjjD-iRSLEU7-GVYzEWOC1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948073604642-u3u3f44465b191h6phjpl044j3h8mj2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
