@@ -300,7 +300,7 @@ namespace LabView.Fans
         {
             _serial = new SerialPort(ComPort)
             {
-                BaudRate = 115200,
+                BaudRate = 9600,
                 DiscardNull = true,
                 Parity = Parity.None
             };

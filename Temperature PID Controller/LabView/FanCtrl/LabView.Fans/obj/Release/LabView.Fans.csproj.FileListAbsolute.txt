@@ -7,3 +7,4 @@ C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\
 C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Release\LabView.Fans.csproj.CopyComplete
 C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Release\LabView Fan Controller.dll
 C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Release\LabView Fan Controller.pdb
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Release\LabView.Fans.csprojAssemblyReference.cache
