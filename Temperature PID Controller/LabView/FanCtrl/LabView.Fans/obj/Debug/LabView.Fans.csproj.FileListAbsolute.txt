@@ -1,0 +1,9 @@
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\bin\Debug\LabView Fan Controller.dll
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\bin\Debug\LabView Fan Controller.pdb
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Debug\LabView.Fans.csproj.CoreCompileInputs.cache
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Debug\LabView.Fans.csproj.CopyComplete
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Debug\LabView Fan Controller.dll
+C:\Users\mjoha\Documents\School\ELIC328\LabViewProject\FanCtrl\LabView.Fans\obj\Debug\LabView Fan Controller.pdb
